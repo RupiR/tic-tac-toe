@@ -15,11 +15,11 @@
 }
 
 .marking-x {
-  color: lightblue;
+  color: rgb(13, 162, 212);
 }
 
 .marking-o {
-  color: lightcoral;
+  color: rgb(174, 15, 189);
 }
 
 .alert {
@@ -38,7 +38,7 @@
 }
 
 #ai {
-  background: #d4edda;
+  background: #d4aeeb;
 }
 
 #container {
